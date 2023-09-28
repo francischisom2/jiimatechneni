@@ -1,0 +1,10 @@
+#logo {
+    border-radius: 8px;
+    position: relative;
+    right: 16px;
+    /* margin-left: 20px; */
+}
+
+.why {
+    background-image: url('../img/complex2.jpg');
+}

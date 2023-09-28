@@ -1,0 +1,20 @@
+#logo {
+    border-radius: 8px;
+    position: relative;
+    right: 16px;
+    /* margin-left: 20px; */
+}
+
+.stdhome {
+    width: 68%;
+    height: 50px;
+    position: relative;
+    left: 27%;
+    top: 20%;
+    bottom: 35%;
+   
+}
+
+.sidebar {
+    margin-top: 2%;
+}
