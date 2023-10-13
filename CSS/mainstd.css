@@ -10,9 +10,20 @@
     height: 50px;
     position: relative;
     left: 27%;
-    top: 20%;
-    bottom: 35%;
+    /*top: 20%;*/
+    bottom: 50%;
    
+}
+@media(max-width: 600px){
+    .stdhome {
+        width: 60%;
+        height: 200px;
+        position: relative;
+        left: 15%;
+        top: 15%;
+        bottom: 5%;
+       
+    }
 }
 
 .sidebar {
