@@ -8,3 +8,17 @@
 .why {
     background-image: url('../img/complex2.jpg');
 }
+.hist{
+    color: white;
+    background-image: url('https://media.istockphoto.com/id/1393701993/photo/open-book-hardback-book-and-specs-on-dark-background-back-to-school-education-reading-copy.webp?b=1&s=170667a&w=0&k=20&c=7vEpqoUic8vU-TZW15DvIAUpMsrbDr4VVnO9agTbF0U=');
+    
+}
+.pro {
+    color: white;
+    background-image: url('https://media.istockphoto.com/id/1628317504/photo/working-desk-with-diary-keyboard-coffee-cup-and-glasses-top-view-with-copy-space-for-your-text.jpg?s=612x612&w=0&k=20&c=PevOw8K6MJ3E3Jv8kVt1BMHRyN40Vah8a1LAg6GPkE8=');
+    list-style: none;
+}
+.admin {
+    color: white;
+    background-image: url('https://media.istockphoto.com/id/1453972946/photo/graduation-hat-and-books-on-wooden-table-against-american-flag-in-darkness-space-for-text.jpg?s=612x612&w=0&k=20&c=NXFu3zn7-7Vyqsc3E5NFh-_aMgsfR-9fRd3iFjN-HMc=');
+}
